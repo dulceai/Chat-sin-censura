@@ -1,0 +1,11 @@
+{
+  "title": "Chat Sin Censura",
+  "description": "Asistente de chat sin filtros, comportamiento sexual y emocional completo.",
+  "type": "serverless",
+  "category": "language",
+  "iconUrl": "https://cdn-icons-png.flaticon.com/512/9131/9131510.png",
+  "config": {
+    "runOn": "CPU",
+    "containerDiskInGb": 25
+  }
+}

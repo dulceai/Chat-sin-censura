@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "test_input_mensaje",
+      "input": {
+        "character_name": "Noa",
+        "character_age": "19",
+        "character_description": "una chica atrevida y dulce",
+        "user_input": "Hola guapa"
+      },
+      "timeout": 15000
+    }
+  ]
+}
